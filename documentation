@@ -1,6 +1,10 @@
 Documentation Example File
 
+<<<<<<< HEAD
 
 
 
 // Code here
+=======
+Adding a new line to the first doc.
+>>>>>>> 693741f672df8e3d3adfcfaf8ae968d7bbc8f457

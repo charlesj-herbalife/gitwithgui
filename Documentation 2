@@ -1,6 +1,10 @@
 Documentation 2
 
+<<<<<<< HEAD
 This is a new line
 
 
 // Code Here
+=======
+This is a new line - and some more content
+>>>>>>> 693741f672df8e3d3adfcfaf8ae968d7bbc8f457
